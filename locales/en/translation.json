@@ -2,7 +2,7 @@
   "projectName": "OTF",
   "connect": "Connect Wallet", 
   "wrongNetwork": "Wrong Network", 
-  "switchTo": "Switch to Kovan or click this button",
+  "switchTo": "Switch the network or click this button",
   "needAccount": "You need a Web3 Account", 
   "dontSeeAssets": "Don't see your assets? Let us know",
   "changeTo": "Change to",
